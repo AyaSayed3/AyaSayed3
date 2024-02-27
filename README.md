@@ -17,10 +17,7 @@ src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" 
  
  
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
+
 
 - 🏢 I'm a Software Engineer and Flutter development
 -  I'm a Mobile Application Developer.I really enjoy learning Programming languages and frameworks. I also enjoy Implementing of designs. 
