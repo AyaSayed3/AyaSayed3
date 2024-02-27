@@ -1,4 +1,4 @@
-<h1 align="center">Hello! 
+<h1 align="center">Hello! 👋 <!-- <img 
 src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> --> My Name is Aya , Welcome To My Github Profile ♥
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=+{وَ+قُلْ+رَبِّ+زِدْنِي+عِلْماً}+قال+تعالى" style="color:black" />
